@@ -1,0 +1,9 @@
+{
+	"ip":"kumail112.aternos.me",
+	"port": 63887,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (hassan) (hassan)",
+	"login-cmd":"/login (hassan)"
+}
